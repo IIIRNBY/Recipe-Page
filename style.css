@@ -8,6 +8,7 @@
     --border-radius: 15px;
     --padding-left-point: 1rem;
     --padding-left: 1.25rem;
+    --border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 * {
@@ -78,7 +79,7 @@ p {
 }
 
 .instructions, .ingredients {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: var(--border-bottom);
     padding-block: 0 2.5rem;
 }
 
@@ -132,7 +133,7 @@ p {
 .nutritions__items {
     display: grid;
     grid-template-rows: repeat(4, 1fr);
-    row-gap: 10px;
+    row-gap: 0.625rem;
 }
 
 .nutritions__row {
@@ -143,7 +144,7 @@ p {
 }
 
 .nutritions__row:not(:last-child) {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: var(--border-bottom);
 }
 
 .items__value {
@@ -161,7 +162,7 @@ p {
     color: #3d52a3;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50rem) {
     main {
         margin: 0;
     }
