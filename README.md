@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [--Will appear later--]
+- Live Site URL: [https://iiirnby.github.io/Recipe-Page/]
 
 ## My process
 
@@ -44,5 +44,5 @@ The AI helped build the Grid, as well as structure the HTML structure (BEM).
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@IIIRNBY]
+- Website - [https://iiirnby.github.io/Recipe-Page/]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/IIIRNBY)]
